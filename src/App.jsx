@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 import Background from "./components/Background/Background"
-import  Navbar  from "./components/Navbar/NavBar"
+import  Navbar  from "./components/Navbar/NavBar.jsx"
 import  Hero  from "./components/Hero/Hero"
 
 
